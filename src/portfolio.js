@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Bayrem Gharsellaoui",
   logo_name: "BayremGharsellaoui",
-  nickname: "kaizoku-o",
+  nickname: "kaizoku-oh",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -80,11 +80,11 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Embedded Sysytems & IoT",
+      title: "Embedded Systems & IoT",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Developing high quality optimized software that runs on tiny devices",
+        "⚡ Experience of working with Cloud and managing servers",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
